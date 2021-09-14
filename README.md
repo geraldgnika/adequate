@@ -1,13 +1,16 @@
-README
+## README
 
-Adequate
+# Adequate
 -> Adequate is an open-source Web development framework, following the MVC Software Architectural Pattern and supporting packaging system, authentication, query builders, form builders, and other software structures and tools.
 Created in 2020.
 
-Getting Started
+# License
+The Adequate framework is open-sourced software licensed under the MIT license.
+
+# Getting Started
 -> These instructions will get you a copy of the project up and running on your local machine for development or testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-Prerequisites
+# Prerequisites
 -> To run this software on your machine you need to have:
 	
 	A host			: 	OS x64 / x32.
@@ -18,7 +21,7 @@ Prerequisites
 	PDO PHP Extension
 	Tokenizer PHP Extension
 
-Deployment
+# Deployment
 -> To be able to run this properly you should:
 	
 	1. Open the configurations folder and change in the 'database_params.php' file these fields:
@@ -37,7 +40,7 @@ Deployment
 		(You have to encrypt it sha256, so get the password from a user you registered through the form and paste it);
 		(Then you can change it later in admin profile settings);
 
-Details
+# Details
 -> Built With:
 
 	PHP Version: 7.3.10
@@ -49,11 +52,8 @@ Details
 	Size: 559 KB (484,750 bytes)
 	Contains: 81 Files, 44 Folders
 
-Authors
+# Authors
 -> Gerald Nika - Software Engineer.
 
-License
--> This project is not licensed.
-
-Acknowledgments
+# Acknowledgments
 -> To come in help of those who struggle developing dynamic and scalable web applications.
