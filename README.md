@@ -1,7 +1,9 @@
 ## README
 
 # Adequate
--> Adequate is an open-source Web development framework, following the MVC Software Architectural Pattern and supporting packaging system, authentication, query builders, form builders, and other software structures and tools.
+-> "Adequate" is a free open-source PHP web framework, created by Gerald Nika and intended for the development of web applications following the model-view-controller (MVC) architectural pattern.
+Adequate offers an expressive and elegant syntax, helping you develop more fluently and without errors.
+It has an expressive and beautiful syntax in terms of code elegance, simplicity, and readability. It has a bunch of helpful tools to help develop faster, keep things clean and avoid syntax errors. It offers Form Builders and Query Builders. It offers a Packaging System to organize your external packages and APIs. It uses concepts from URL Routing, CSRF Token Authentication, Middleware, and other security aspects.
 Created in 2020.
 
 # License
