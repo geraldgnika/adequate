@@ -1,0 +1,26 @@
+TODO:
+
+Composer & Artisan integration.
+Service providers.
+Routing HTTP Requests in seperate file.
+Facade pattern & caching system.
+Dependency injection.
+API authentication.
+Namespaces.
+HTML custom templates.
+Multi-lingual system.
+AJAX requests.
+Middleware parameterized functions to give privileges to specific components and methods inside them.
+More encryption algorithms.
+Authorization.
+Email verification, remember me & password reset.
+Regexes.
+File storage.
+Helper functions from PHP references.
+Mailing system.
+Database migrations.
+Pagination.
+Eloquent alike system.
+Testing tools.
+HTTP Request-Response object.
+Stack tracing system.

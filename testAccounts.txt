@@ -1,0 +1,7 @@
+Admin Credentials:
+	theadmin
+	Password1
+
+User Credentials:
+	theuser
+	Password1

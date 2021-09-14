@@ -1,0 +1,115 @@
+[13-Feb-2020 12:39:36 Europe/Berlin] PHP Warning:  require(lflf.php): failed to open stream: No such file or directory in C:\xampp\htdocs\Adequate\utilities\ExternalSecurity.php on line 49
+[13-Feb-2020 12:39:36 Europe/Berlin] PHP Fatal error:  require(): Failed opening required 'lflf.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\Adequate\utilities\ExternalSecurity.php on line 49
+[13-Feb-2020 12:40:05 Europe/Berlin] PHP Warning:  require(lflf.php): failed to open stream: No such file or directory in C:\xampp\htdocs\Adequate\index.php on line 41
+[13-Feb-2020 12:40:05 Europe/Berlin] PHP Fatal error:  require(): Failed opening required 'lflf.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\Adequate\index.php on line 41
+[13-Feb-2020 12:40:13 Europe/Berlin] PHP Warning:  require(lflf.php): failed to open stream: No such file or directory in C:\xampp\htdocs\Adequate\index.php on line 41
+[13-Feb-2020 12:40:13 Europe/Berlin] PHP Fatal error:  require(): Failed opening required 'lflf.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\Adequate\index.php on line 41
+[13-Feb-2020 12:40:14 Europe/Berlin] PHP Warning:  require(lflf.php): failed to open stream: No such file or directory in C:\xampp\htdocs\Adequate\index.php on line 41
+[13-Feb-2020 12:40:14 Europe/Berlin] PHP Fatal error:  require(): Failed opening required 'lflf.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\Adequate\index.php on line 41
+[13-Feb-2020 12:40:14 Europe/Berlin] PHP Warning:  require(lflf.php): failed to open stream: No such file or directory in C:\xampp\htdocs\Adequate\index.php on line 41
+[13-Feb-2020 12:40:14 Europe/Berlin] PHP Fatal error:  require(): Failed opening required 'lflf.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\Adequate\index.php on line 41
+[13-Feb-2020 12:40:14 Europe/Berlin] PHP Warning:  require(lflf.php): failed to open stream: No such file or directory in C:\xampp\htdocs\Adequate\index.php on line 41
+[13-Feb-2020 12:40:14 Europe/Berlin] PHP Fatal error:  require(): Failed opening required 'lflf.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\Adequate\index.php on line 41
+[13-Feb-2020 12:42:42 Europe/Berlin] PHP Warning:  require(lflf.php): failed to open stream: No such file or directory in C:\xampp\htdocs\Adequate\index.php on line 41
+[13-Feb-2020 12:42:42 Europe/Berlin] PHP Fatal error:  require(): Failed opening required 'lflf.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\Adequate\index.php on line 41
+[13-Feb-2020 12:42:48 Europe/Berlin] PHP Warning:  require(lflf.php): failed to open stream: No such file or directory in C:\xampp\htdocs\Adequate\index.php on line 41
+[13-Feb-2020 12:42:48 Europe/Berlin] PHP Fatal error:  require(): Failed opening required 'lflf.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\Adequate\index.php on line 41[13-Feb-2020 12:45:28 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Router::inistiate() in C:\xampp\htdocs\Adequate\index.php:44
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\Adequate\index.php on line 44
+[13-Feb-2020 12:45:32 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Router::inistiate() in C:\xampp\htdocs\Adequate\index.php:44
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\Adequate\index.php on line 44
+[13-Feb-2020 12:45:34 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Router::inistiate() in C:\xampp\htdocs\Adequate\index.php:44
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\Adequate\index.php on line 44
+[13-Feb-2020 14:26:01 Europe/Berlin] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\Adequate\vendor\System\Database.php on line 60
+[13-Feb-2020 14:26:39 Europe/Berlin] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\Adequate\vendor\System\Database.php on line 60
+[13-Feb-2020 14:43:42 Europe/Berlin] PHP Warning:  Use of undefined constant POST - assumed 'POST' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Adequate\app\Http\Controllers\SettingsController.php on line 101
+[13-Feb-2020 14:43:43 Europe/Berlin] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\Adequate\vendor\System\Database.php on line 60
+[13-Feb-2020 14:44:20 Europe/Berlin] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\Adequate\vendor\System\Database.php on line 60
+[13-Feb-2020 14:44:24 Europe/Berlin] PHP Warning:  Use of undefined constant POST - assumed 'POST' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Adequate\app\Http\Controllers\SettingsController.php on line 101
+[13-Feb-2020 14:44:24 Europe/Berlin] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\Adequate\vendor\System\Database.php on line 60
+[13-Feb-2020 14:44:31 Europe/Berlin] PHP Warning:  Use of undefined constant POST - assumed 'POST' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Adequate\app\Http\Controllers\SettingsController.php on line 101
+[13-Feb-2020 14:44:31 Europe/Berlin] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\Adequate\vendor\System\Database.php on line 60
+[13-Feb-2020 14:46:03 Europe/Berlin] PHP Warning:  Use of undefined constant GET - assumed 'GET' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Adequate\app\Http\Controllers\SettingsController.php on line 46
+[13-Feb-2020 14:46:06 Europe/Berlin] PHP Warning:  Use of undefined constant GET - assumed 'GET' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Adequate\app\Http\Controllers\SettingsController.php on line 46
+[13-Feb-2020 14:46:15 Europe/Berlin] PHP Warning:  Use of undefined constant POST - assumed 'POST' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Adequate\app\Http\Controllers\SettingsController.php on line 101
+[13-Feb-2020 14:46:25 Europe/Berlin] PHP Warning:  Use of undefined constant POST - assumed 'POST' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Adequate\app\Http\Controllers\SettingsController.php on line 101
+[13-Feb-2020 14:46:29 Europe/Berlin] PHP Warning:  Use of undefined constant POST - assumed 'POST' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Adequate\app\Http\Controllers\SettingsController.php on line 101
+[13-Feb-2020 14:46:29 Europe/Berlin] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\Adequate\vendor\System\Database.php on line 60
+[13-Feb-2020 14:46:31 Europe/Berlin] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\Adequate\vendor\System\Database.php on line 60
+[13-Feb-2020 14:46:39 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function AdminController::index(), 0 passed in C:\xampp\htdocs\Adequate\vendor\System\Router.php on line 124 and exactly 1 expected in C:\xampp\htdocs\Adequate\app\Http\Controllers\AdminController.php:13
+Stack trace:
+#0 C:\xampp\htdocs\Adequate\vendor\System\Router.php(124): AdminController->index()
+#1 C:\xampp\htdocs\Adequate\vendor\System\Router.php(20): Router->_urlDispatcher()
+#2 C:\xampp\htdocs\Adequate\index.php(44): Router->initiate()
+#3 {main}
+  thrown in C:\xampp\htdocs\Adequate\app\Http\Controllers\AdminController.php on line 13
+[13-Feb-2020 14:46:59 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function AdminController::index(), 0 passed in C:\xampp\htdocs\Adequate\vendor\System\Router.php on line 124 and exactly 1 expected in C:\xampp\htdocs\Adequate\app\Http\Controllers\AdminController.php:13
+Stack trace:
+#0 C:\xampp\htdocs\Adequate\vendor\System\Router.php(124): AdminController->index()
+#1 C:\xampp\htdocs\Adequate\vendor\System\Router.php(20): Router->_urlDispatcher()
+#2 C:\xampp\htdocs\Adequate\index.php(44): Router->initiate()
+#3 {main}
+  thrown in C:\xampp\htdocs\Adequate\app\Http\Controllers\AdminController.php on line 13
+[13-Feb-2020 14:47:04 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function AdminController::index(), 0 passed in C:\xampp\htdocs\Adequate\vendor\System\Router.php on line 124 and exactly 1 expected in C:\xampp\htdocs\Adequate\app\Http\Controllers\AdminController.php:13
+Stack trace:
+#0 C:\xampp\htdocs\Adequate\vendor\System\Router.php(124): AdminController->index()
+#1 C:\xampp\htdocs\Adequate\vendor\System\Router.php(20): Router->_urlDispatcher()
+#2 C:\xampp\htdocs\Adequate\index.php(44): Router->initiate()
+#3 {main}
+  thrown in C:\xampp\htdocs\Adequate\app\Http\Controllers\AdminController.php on line 13
+[13-Feb-2020 14:49:51 Europe/Berlin] PHP Fatal error:  Cannot use [] for reading in C:\xampp\htdocs\Adequate\vendor\System\Router.php on line 82
+[13-Feb-2020 14:49:54 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function AdminController::index(), 0 passed in C:\xampp\htdocs\Adequate\vendor\System\Router.php on line 124 and exactly 1 expected in C:\xampp\htdocs\Adequate\app\Http\Controllers\AdminController.php:13
+Stack trace:
+#0 C:\xampp\htdocs\Adequate\vendor\System\Router.php(124): AdminController->index()
+#1 C:\xampp\htdocs\Adequate\vendor\System\Router.php(20): Router->_urlDispatcher()
+#2 C:\xampp\htdocs\Adequate\index.php(44): Router->initiate()
+#3 {main}
+  thrown in C:\xampp\htdocs\Adequate\app\Http\Controllers\AdminController.php on line 13
+[13-Feb-2020 14:52:21 Europe/Berlin] PHP Warning:  Use of undefined constant POST - assumed 'POST' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Adequate\app\Http\Controllers\SettingsController.php on line 101
+[13-Feb-2020 14:52:21 Europe/Berlin] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\Adequate\vendor\System\Database.php on line 60
+[13-Feb-2020 14:52:26 Europe/Berlin] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\Adequate\vendor\System\Database.php on line 60
+[13-Feb-2020 14:53:20 Europe/Berlin] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\Adequate\vendor\System\Database.php on line 60
+[13-Feb-2020 14:53:25 Europe/Berlin] PHP Warning:  Use of undefined constant POST - assumed 'POST' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Adequate\app\Http\Controllers\SettingsController.php on line 101
+[13-Feb-2020 14:53:25 Europe/Berlin] PHP Notice:  Undefined index: password in C:\xampp\htdocs\Adequate\app\Http\Controllers\SettingsController.php on line 97
+[13-Feb-2020 14:53:25 Europe/Berlin] PHP Warning:  Use of undefined constant POST - assumed 'POST' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Adequate\app\Http\Controllers\SettingsController.php on line 101
+[13-Feb-2020 14:53:51 Europe/Berlin] PHP Warning:  Use of undefined constant POST - assumed 'POST' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Adequate\app\Http\Controllers\SettingsController.php on line 101
+[13-Feb-2020 14:54:44 Europe/Berlin] PHP Notice:  Undefined index: password in C:\xampp\htdocs\Adequate\app\Http\Controllers\SettingsController.php on line 97
+[13-Feb-2020 14:54:44 Europe/Berlin] PHP Warning:  Use of undefined constant GET - assumed 'GET' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Adequate\app\Http\Controllers\SettingsController.php on line 101
+[13-Feb-2020 14:55:27 Europe/Berlin] PHP Warning:  Use of undefined constant POST - assumed 'POST' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Adequate\app\Http\Controllers\SettingsController.php on line 101
+[13-Feb-2020 14:55:27 Europe/Berlin] PHP Notice:  Undefined index: password in C:\xampp\htdocs\Adequate\app\Http\Controllers\SettingsController.php on line 97
+[13-Feb-2020 14:55:27 Europe/Berlin] PHP Warning:  Use of undefined constant POST - assumed 'POST' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Adequate\app\Http\Controllers\SettingsController.php on line 101
+[13-Feb-2020 14:55:34 Europe/Berlin] PHP Warning:  Use of undefined constant POST - assumed 'POST' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Adequate\app\Http\Controllers\SettingsController.php on line 101
+[13-Feb-2020 14:55:34 Europe/Berlin] PHP Notice:  Undefined index: password in C:\xampp\htdocs\Adequate\app\Http\Controllers\SettingsController.php on line 97
+[13-Feb-2020 14:55:34 Europe/Berlin] PHP Warning:  Use of undefined constant POST - assumed 'POST' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Adequate\app\Http\Controllers\SettingsController.php on line 101
+[13-Feb-2020 14:55:39 Europe/Berlin] PHP Warning:  Use of undefined constant POST - assumed 'POST' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Adequate\app\Http\Controllers\SettingsController.php on line 101
+[13-Feb-2020 14:55:39 Europe/Berlin] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\Adequate\vendor\System\Database.php on line 60
+[13-Feb-2020 14:55:50 Europe/Berlin] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\Adequate\vendor\System\Database.php on line 60
+[13-Feb-2020 14:56:21 Europe/Berlin] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\Adequate\vendor\System\Database.php on line 60
+[13-Feb-2020 14:56:26 Europe/Berlin] PHP Warning:  Use of undefined constant POST - assumed 'POST' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Adequate\app\Http\Controllers\SettingsController.php on line 101
+[13-Feb-2020 14:56:26 Europe/Berlin] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\Adequate\vendor\System\Database.php on line 60
+[13-Feb-2020 14:56:55 Europe/Berlin] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\Adequate\vendor\System\Database.php on line 60
+[13-Feb-2020 14:56:57 Europe/Berlin] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\Adequate\vendor\System\Database.php on line 60
+[13-Feb-2020 14:57:01 Europe/Berlin] PHP Warning:  Use of undefined constant POST - assumed 'POST' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Adequate\app\Http\Controllers\SettingsController.php on line 101
+[13-Feb-2020 14:58:36 Europe/Berlin] PHP Warning:  Use of undefined constant GET - assumed 'GET' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Adequate\app\Http\Controllers\SettingsController.php on line 80
+[13-Feb-2020 15:00:48 Europe/Berlin] PHP Warning:  Use of undefined constant GET - assumed 'GET' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Adequate\app\Http\Controllers\SettingsController.php on line 46
+[13-Feb-2020 15:00:57 Europe/Berlin] PHP Warning:  Use of undefined constant GET - assumed 'GET' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Adequate\app\Http\Controllers\SettingsController.php on line 46
+[13-Feb-2020 15:01:00 Europe/Berlin] PHP Warning:  Use of undefined constant GET - assumed 'GET' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Adequate\app\Http\Controllers\SettingsController.php on line 46
+[13-Feb-2020 15:04:55 Europe/Berlin] PHP Notice:  Array to string conversion in C:\xampp\htdocs\Adequate\resources\views\settings\index.php on line 2
+[13-Feb-2020 15:05:20 Europe/Berlin] PHP Notice:  Array to string conversion in C:\xampp\htdocs\Adequate\resources\views\settings\index.php on line 2
+[13-Feb-2020 15:05:23 Europe/Berlin] PHP Notice:  Array to string conversion in C:\xampp\htdocs\Adequate\resources\views\settings\index.php on line 2
+[13-Feb-2020 15:05:34 Europe/Berlin] PHP Notice:  Array to string conversion in C:\xampp\htdocs\Adequate\resources\views\settings\index.php on line 2
+[13-Feb-2020 15:08:14 Europe/Berlin] PHP Warning:  Use of undefined constant GET - assumed 'GET' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Adequate\app\Http\Controllers\SettingsController.php on line 46
+[13-Feb-2020 15:08:17 Europe/Berlin] PHP Warning:  Use of undefined constant GET - assumed 'GET' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Adequate\app\Http\Controllers\SettingsController.php on line 46
+[13-Feb-2020 15:08:24 Europe/Berlin] PHP Warning:  Use of undefined constant GET - assumed 'GET' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Adequate\app\Http\Controllers\SettingsController.php on line 46
+[13-Feb-2020 15:08:27 Europe/Berlin] PHP Warning:  Use of undefined constant GET - assumed 'GET' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Adequate\app\Http\Controllers\SettingsController.php on line 46
+[13-Feb-2020 15:14:58 Europe/Berlin] PHP Warning:  Use of undefined constant GET - assumed 'GET' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Adequate\app\Http\Controllers\SettingsController.php on line 46
+[13-Feb-2020 15:15:01 Europe/Berlin] PHP Warning:  Use of undefined constant GET - assumed 'GET' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Adequate\app\Http\Controllers\SettingsController.php on line 46
+[13-Feb-2020 15:18:31 Europe/Berlin] PHP Warning:  Use of undefined constant GET - assumed 'GET' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Adequate\app\Http\Controllers\SettingsController.php on line 46
+[13-Feb-2020 15:18:33 Europe/Berlin] PHP Warning:  Use of undefined constant GET - assumed 'GET' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Adequate\app\Http\Controllers\SettingsController.php on line 46
+[13-Feb-2020 15:21:07 Europe/Berlin] PHP Warning:  Use of undefined constant GET - assumed 'GET' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Adequate\app\Http\Controllers\SettingsController.php on line 46
+[13-Feb-2020 15:21:10 Europe/Berlin] PHP Warning:  Use of undefined constant GET - assumed 'GET' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Adequate\app\Http\Controllers\SettingsController.php on line 46
