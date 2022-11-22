@@ -49,8 +49,8 @@ The Adequate framework is open-sourced software licensed under the MIT license.
 	Bootstrap Version: 4.1.1
 	Visual Studio Code Version: 1.42.0 x64
 	Apache/2.4.33 (Win32) OpenSSL/1.1.0h PHP/7.2.5 Server at localhost Port 80
-	Created: Wednesday, ‎February ‎12, ‎2020, ‏‎7:59 PM
-	Last modified: Wednesday, ‎February ‎12, ‎2020, ‏‎8:01 PM
+	Created: Wednesday, February 12, 2020, 7:59 PM
+	Last modified: Wednesday, February 12, 2020, 8:01 PM
 	Size: 559 KB (484,750 bytes)
 	Contains: 81 Files, 44 Folders
 
